@@ -1,0 +1,5 @@
+name: JoinKick
+api: [5.0.0]
+main: zs\Main
+author: zsfell
+version: 1.0.0
