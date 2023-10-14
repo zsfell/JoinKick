@@ -4,7 +4,6 @@ namespace zs;
 
 use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\event\Listener;
-use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
 
 class Main extends PluginBase implements Listener {
